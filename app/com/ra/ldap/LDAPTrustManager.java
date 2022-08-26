@@ -79,7 +79,6 @@ public class LDAPTrustManager implements X509TrustManager {
              * Possibly pop up a dialog box asking whether to trust the cert
              * chain.
              */
-
         }
     }
 
